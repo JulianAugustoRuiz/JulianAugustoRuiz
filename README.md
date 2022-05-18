@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julián Ruíz
+👋 Hi, I’m Julián Ruíz
 
 I love C#, .NET and Microsoft ecosystem.
 
